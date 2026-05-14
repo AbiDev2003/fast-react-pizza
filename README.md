@@ -6,7 +6,7 @@ A fast, minimal pizza ordering web app built with React, tailwind and redux tool
 
 ## 🚀 Live Demo
 
-> _Coming soon / Add your deployed link here_
+[first-react-pizza](https://first-react-pizza.netlify.app/)
 
 ---
 
